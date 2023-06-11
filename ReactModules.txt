@@ -1,0 +1,33 @@
+What is react JS?
+
+React JS framework is an open source javascript framework and library developed by Facebook. React 
+is used for building interactive user interfaces and web applications quickly and efficiently with significant less code.
+
+
+What is NPM in react Js?
+
+NPM is node package manager an online directory that contains the various registered packages.
+
+
+What is Role of Node Js in react Js? 
+
+Node Js is a framework used for working with backend or building the backend using
+javascript.
+
+What is CLI command In React Js?
+
+CLI command stands for command line input which accepts text input to execute operating systems function.
+
+
+What is Header and Content Components in React Js?
+
+Header are compositions that extend standard navbar functionalities. They contain additional components such as sub-navbar or links. 
+
+How to check version of React Js?
+
+We can check the version of react in package.json as well as using command npm view react version.
+
+
+How to change in components of React Js? 
+
+There are multiple ways to do that: we can use Update in state, Update in prop, or re-render the parent component.
